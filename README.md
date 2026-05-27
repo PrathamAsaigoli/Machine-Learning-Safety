@@ -1,2 +1,2 @@
-# Machile-Learning-Safety
+# Machine-Learning-Safety
 Machine Learning assignment 
